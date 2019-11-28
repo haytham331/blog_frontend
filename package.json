@@ -1,0 +1,19 @@
+{
+  "name": "haythamblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://7d784c218919b9a8168c0bd9a7345ea118e96295@github.com/haytham331/haythamBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haytham331/haythamBlog/issues"
+  },
+  "homepage": "https://github.com/haytham331/haythamBlog#readme"
+}
